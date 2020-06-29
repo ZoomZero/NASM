@@ -1,2 +1,2 @@
 # NASM
-Some assebler projects
+Some assembler projects
